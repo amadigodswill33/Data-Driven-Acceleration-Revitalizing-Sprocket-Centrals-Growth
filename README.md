@@ -26,7 +26,7 @@ Sprocket Central Pty Ltd, a prominent medium-sized organization specializing in 
 
 
 ### 2. Project Overview
-Sprocket Central is seeking assistance in optimizing its marketing strategy by effectively analyzing its customer and transaction data. The organization possesses a substantial dataset related to its customers but is currently facing challenges in extracting meaningful insights. To address this, KPMG will embark on a comprehensive data exploration initiative to identify opportunities for improvement and ensure the dataset's quality aligns with the business growth objectives.
+Sprocket Central is seeking assistance in optimizing its marketing strategy by effectively analyzing its customer and transaction data. The organization possesses a substantial dataset related to its customers but is currently facing challenges in extracting meaningful insights. To address this, a comprehensive data exploration initiative was carried out to identify opportunities for improvement and ensure the dataset's quality aligns with the business growth objectives.
 
 #### Benefits:
 - Enhanced understanding of customer behavior.
@@ -45,18 +45,19 @@ In this phase, the three datasets provided were assessed based on the seven dime
 - Inconsistent data type for similar attributes like numeric values for some fields and string for others. These quality assessments were done with the use of Excel, cleaned, standardized, and transformed as needed in preparation for the next phase.
 
 ## Data Insights: Exploratory Data Analysis
+This phase was totally carried out with the use of Microsoft Excel
 
 ### 1. Uncovering Trends in the Underlying Data
-The analysis set out to identify trends within the data, allowing us to discern patterns and fluctuations crucial for adapting marketing strategies to dynamic market conditions.
+The analysis set out to identify trends within the data, allowing the discernment of patterns and fluctuations crucial for adapting marketing strategies to dynamic market conditions.
 
 ### 2. Determining the Highest-Value Customer Segment
-Through a comprehensive Recency, Frequency, and Monetary (RFM) analysis, we sought to understand the customer profile deeply. This involved evaluating the recency of customer interactions, the frequency of purchases, and the monetary value of transactions to identify and prioritize the highest-value customer segment.
+Through a comprehensive Recency, Frequency, and Monetary (RFM) analysis, I sought to understand the customer profile deeply. This involved evaluating the recency of customer interactions, the frequency of purchases, and the monetary value of transactions to identify and prioritize the highest-value customer segment.
 
 ### 3. Crafting a Strategic Marketing and Growth Plan
-The overarching goal of the analysis was to propose a tailored marketing and growth strategy for Sprocket Central Pty Ltd. By delving into customer behavior, preferences, and product choices, we aimed to provide actionable insights to steer the company's growth trajectory.
+The overarching goal of the analysis was to propose a tailored marketing and growth strategy for Sprocket Central Pty Ltd. By delving into customer behavior, preferences, and product choices, so I aimed to provide actionable insights to steer the company's growth trajectory.
 
 ### 4. Profiling Customers Across Age Groups
-The exploration involved segmenting customers based on age groups to gain a nuanced understanding of their preferences and behaviors. This segmentation allows for targeted marketing efforts, ensuring that strategies resonate effectively with each age cohort.
+The exploration involved segmenting customers based on age groups to gain a nuanced understanding of their preferences and behaviors. This segmentation allows for targeted marketing efforts, ensuring that strategies resonate effectively with each age group.
 
 ### 5. Assessing Product Choice Over Time
 A thorough examination of product choices made by customers over the 12-month observation period was conducted. This temporal analysis helps in identifying product preferences and adapting inventory and marketing strategies accordingly.
@@ -77,7 +78,7 @@ The comprehensive analysis and visualization conducted using Tableau have yielde
    - The revenue generated during the analysis period amounts to a substantial $10.7 million, reflecting the financial performance of our business.
 
 3. **Top Brands:**
-   - Noteworthy brands that stand out in terms of sales performance include Solx, Trek Bicycles, and WeareA2B, indicating their popularity and market acceptance.
+   - Noteworthy brands that stand out in terms of sales performance include Solex, Trek Bicycles, and WeareA2B, indicating their popularity and market acceptance.
 
 4. **Top Product Line and Product Class:**
    - The leading product line is 'Standard,' while the dominant product class is 'Medium.' These insights highlight specific areas where our product offerings excel and can guide future strategic decisions.
