@@ -76,7 +76,7 @@ To enhance geographic targeting, the analysis delved into the location-wise dist
 ## Data Analytics: Data Insights/Results
 The comprehensive analysis and visualization conducted using Tableau have yielded valuable insights into various facets of our business operations. The key findings are summarized below:
 
-![Sprocketnew](https://github.com/amadigodswill33/Data-Driven-Acceleration-Revitalizing-Sprocket-Centrals-Growth/assets/94016023/28b2d200-7a23-4d6e-9284-2647d9b76009)
+![SprocketNew2](https://github.com/amadigodswill33/Data-Driven-Acceleration-Revitalizing-Sprocket-Centrals-Growth/assets/94016023/f90c94ab-9fd1-4c95-b1f9-5b3df7f4632f)
 
 1. **Total Customers:**
    - The dataset comprises a total of 3,397 unique customers who have interacted with our products and services within the study period.
