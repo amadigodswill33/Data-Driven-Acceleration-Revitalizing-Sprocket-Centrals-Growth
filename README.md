@@ -1,4 +1,5 @@
 # KPMG AU Data Analytics Simulation Job Internship
+![sprocket_central_logo](https://github.com/amadigodswill33/Data-Driven-Acceleration-Revitalizing-Sprocket-Centrals-Growth/assets/94016023/85545e59-0bec-4cba-9bca-35feaa492826)
 
 ## Table of Contents
 
@@ -45,7 +46,7 @@ In this phase, the three datasets provided were assessed based on the seven dime
 - Inconsistent data type for similar attributes like numeric values for some fields and string for others. These quality assessments were done with the use of Excel, cleaned, standardized, and transformed as needed in preparation for the next phase.
 
 ## Data Insights: Exploratory Data Analysis
-This phase was totally carried out with the use of Microsoft Excel
+This phase was carried out with the use of Microsoft Excel
 
 ### 1. Uncovering Trends in the Underlying Data
 The analysis set out to identify trends within the data, allowing the discernment of patterns and fluctuations crucial for adapting marketing strategies to dynamic market conditions.
@@ -53,11 +54,15 @@ The analysis set out to identify trends within the data, allowing the discernmen
 ### 2. Determining the Highest-Value Customer Segment
 Through a comprehensive Recency, Frequency, and Monetary (RFM) analysis, I sought to understand the customer profile deeply. This involved evaluating the recency of customer interactions, the frequency of purchases, and the monetary value of transactions to identify and prioritize the highest-value customer segment.
 
+![RFM Value](https://github.com/amadigodswill33/Data-Driven-Acceleration-Revitalizing-Sprocket-Centrals-Growth/assets/94016023/f316a200-9794-4315-8e50-1f6872394406)
+
 ### 3. Crafting a Strategic Marketing and Growth Plan
 The overarching goal of the analysis was to propose a tailored marketing and growth strategy for Sprocket Central Pty Ltd. By delving into customer behavior, preferences, and product choices, so I aimed to provide actionable insights to steer the company's growth trajectory.
 
 ### 4. Profiling Customers Across Age Groups
 The exploration involved segmenting customers based on age groups to gain a nuanced understanding of their preferences and behaviors. This segmentation allows for targeted marketing efforts, ensuring that strategies resonate effectively with each age group.
+
+![Age_cluster](https://github.com/amadigodswill33/Data-Driven-Acceleration-Revitalizing-Sprocket-Centrals-Growth/assets/94016023/c99039c0-a41a-465e-be90-9d523a5b058d)
 
 ### 5. Assessing Product Choice Over Time
 A thorough examination of product choices made by customers over the 12-month observation period was conducted. This temporal analysis helps in identifying product preferences and adapting inventory and marketing strategies accordingly.
@@ -71,9 +76,11 @@ To enhance geographic targeting, the analysis delved into the location-wise dist
 ## Data Analytics: Data Insights/Results
 The comprehensive analysis and visualization conducted using Tableau have yielded valuable insights into various facets of our business operations. The key findings are summarized below:
 
+![Sprocketnew](https://github.com/amadigodswill33/Data-Driven-Acceleration-Revitalizing-Sprocket-Centrals-Growth/assets/94016023/28b2d200-7a23-4d6e-9284-2647d9b76009)
+
 1. **Total Customers:**
    - The dataset comprises a total of 3,397 unique customers who have interacted with our products and services within the study period.
-
+[View Dashboard.](https://public.tableau.com/app/profile/godswill.amadi/viz/KPMG_Final_Project/Dashboard1?publish=yes)
 2. **Revenue Generation:**
    - The revenue generated during the analysis period amounts to a substantial $10.7 million, reflecting the financial performance of our business.
 
@@ -86,7 +93,7 @@ The comprehensive analysis and visualization conducted using Tableau have yielde
 5. **Target Customer Segmentation:**
    - **Wealth Segment:** The 'Mass customer' segment emerges as the primary target, contributing a substantial 52% to the overall revenue during the study period. This suggests the importance of tailoring marketing strategies to cater to the preferences and needs of this customer segment.
    - **Age Bracket:** Customers falling within the age bracket of 20-29 years are a significant demographic, constituting 40% of product purchases. Further analysis reveals that the majority of these customers are females. Understanding and catering to the preferences of this age group, particularly female consumers, can be instrumental in driving sales.
-
+[View Dashboard.](https://public.tableau.com/app/profile/godswill.amadi/viz/KPMG_Final_Project/Dashboard1?publish=yes)
 6. **Geographical Focus:**
    - Based on the analysis, the ideal target locations for business expansion and marketing efforts should be concentrated in New South Wales and Victoria. These regions demonstrate the highest potential for customer engagement and revenue generation. [View Dashboard.](https://public.tableau.com/app/profile/godswill.amadi/viz/KPMG_Final_Project/Dashboard1?publish=yes)
 
